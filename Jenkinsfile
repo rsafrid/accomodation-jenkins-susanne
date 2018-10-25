@@ -13,3 +13,5 @@ pipeline{
       }
    }
   }
+
+// github heter Rafael=  rasi10, projekt= accomodation-jenkins-årafael2/master/Jenkinsfile
